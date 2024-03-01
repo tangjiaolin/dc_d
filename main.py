@@ -1,7 +1,7 @@
 import sys
 
 def print_operation(operation_name):
-    print("operation name:" + operation_name)
+    print("operation name D:" + operation_name)
 
 if __name__ == "__main__":
     operation_name = "default"
